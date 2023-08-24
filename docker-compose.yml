@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     build: .
+     image: sunil1397/nodes-django-app
      ports :
          - "5000:5000"
