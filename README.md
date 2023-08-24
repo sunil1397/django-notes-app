@@ -28,3 +28,8 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
 `sudo apt install nginx`
+
+
+## Agent
+if you want to create agent and run the job
+'agent any'
